@@ -1,3 +1,13 @@
+// This file is part of the Grant Robot project. It is subject to the license terms in the LICENSE file found 
+// in the top-level directory of this distribution and at http://www.gnu.org/licenses/agpl.html 
+//
+// No part of the Grant Robot  Project, including this file, may be copied, modified, propagated, or distributed 
+// except according to the terms contained in the LICENSE file.
+//
+//
+// Copyright 2016 James Whiddon <jwhiddon@gmail.com> INITIAL RELEASE.
+//
+
 function doGet(e) {
   var start_time = new Date();
   var err_msg = "Woah there little buddy!  You seem to be making some stuff up there.";  
